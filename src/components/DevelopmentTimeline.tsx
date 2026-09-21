@@ -277,7 +277,7 @@ export default function DevelopmentTimeline() {
                     <span>Repository Access:</span>
                   </div>
                   <span>
-                    Configured via <code className="bg-[#FAF9F5] px-1.5 py-0.5 border rounded">NEXT_PUBLIC_GITHUB_URL</code> (currently in private research stage).
+                    Configured via <code className="bg-[#FAF9F5] px-1.5 py-0.5 border rounded">https://github.com/rifqisigma/socrative-model</code> (currently in private research stage).
                   </span>
                 </div>
               )}
