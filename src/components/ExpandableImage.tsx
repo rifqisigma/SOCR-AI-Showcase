@@ -56,8 +56,7 @@ export default function ExpandableImage() {
 
       {/* Sub-caption */}
       <div className="w-full max-w-4xl mx-auto px-6 mt-6 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-2 text-xs font-mono text-[#787774]">
-        <span>[Scroll Interaction: Viewport Expansion]</span>
-        <span className="text-right">SOCRATIVE Cognitive Framework Prototype v0.1</span>
+        <span className="text-right">SOCRATIVE Showcase</span>
       </div>
     </div>
   );
