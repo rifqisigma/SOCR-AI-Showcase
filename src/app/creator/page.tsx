@@ -7,7 +7,7 @@ import CreatorProfile from "@/components/CreatorProfile";
 export const metadata: Metadata = {
   title: "Creator",
   description:
-    "Profile of Rifqi Adli Hernawan — student researcher at IPB University leading the SOCRATIVE cognitive inquiry initiative.",
+    "Profile of Rifqi Adli Hernawan — student researcher at IPB University leading the SOCR.AI cognitive inquiry initiative.",
 };
 
 export default function CreatorPage() {

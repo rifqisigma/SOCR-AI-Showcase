@@ -16,7 +16,7 @@ export default function HomePage() {
 
         {/* Hero Title */}
         <h1 className="font-serif text-5xl sm:text-7xl lg:text-8xl tracking-tight text-[#141413] font-normal leading-[1.05] max-w-4xl">
-          SOCRATIVE
+          SOCR.AI
         </h1>
 
         {/* Subtitle */}
@@ -76,7 +76,7 @@ export default function HomePage() {
               As generative AI models become increasingly powerful, obtaining immediate answers has become frictionless. However, this ease creates a silent cognitive vulnerability: <strong>cognitive offloading</strong>, where learners bypass the critical stages of synthesis, struggle, and deduction.
             </p>
             <p className="text-sm text-[#66645E]">
-              SOCRATIVE introduces intentional cognitive friction through calibrated Socratic questioning—guiding students to inspect assumptions and evaluate premises before viewing solutions.
+              SOCR.AI introduces intentional cognitive friction through calibrated Socratic questioning—guiding students to inspect assumptions and evaluate premises before viewing solutions.
             </p>
           </div>
         </div>

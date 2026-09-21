@@ -26,7 +26,7 @@ export default function DataPage() {
           Mapping the Velocity of GenAI Diffusion and its Measurable Cognitive Footprint.
         </p>
         <p className="text-base text-[#66645E] leading-relaxed">
-          The rationale for SOCRATIVE is established on empirical data spanning global economic adoption, student survey benchmarks, and peer-reviewed cognitive retention studies.
+          The rationale for SOCR.AI is established on empirical data spanning global economic adoption, student survey benchmarks, and peer-reviewed cognitive retention studies.
         </p>
       </header>
 

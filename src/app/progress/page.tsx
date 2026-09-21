@@ -7,7 +7,7 @@ import DevelopmentTimeline from "@/components/DevelopmentTimeline";
 export const metadata: Metadata = {
   title: "Progress",
   description:
-    "Explore the development status, empirical milestones, and architectural roadmap of the SOCRATIVE project.",
+    "Explore the development status, empirical milestones, and architectural roadmap of the SOCR.AI project.",
 };
 
 export default function ProgressPage() {
@@ -37,7 +37,7 @@ export default function ProgressPage() {
       <div className="border-t border-[#E6E4DC] pt-12 flex flex-col sm:flex-row items-center justify-between gap-6">
         <div>
           <span className="text-xs font-mono text-[#787774] uppercase">Next in sequence</span>
-          <p className="font-serif text-xl text-[#141413]">Meet the Researcher Behind SOCRATIVE</p>
+          <p className="font-serif text-xl text-[#141413]">Meet the Researcher Behind SOCR.AI</p>
         </div>
         <Link
           href="/creator"

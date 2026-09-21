@@ -249,7 +249,7 @@ export default function SocraticFlow() {
                   {socraticStages[activeStage].socraticPrompt}
                 </blockquote>
                 <p className="text-xs text-[#787774] font-mono leading-relaxed">
-                  SOCRATIVE interjects at this inflection point to ensure students articulate intermediate reasoning before the answer surfaces.
+                  SOCR.AI interjects at this inflection point to ensure students articulate intermediate reasoning before the answer surfaces.
                 </p>
               </div>
             </div>
@@ -266,10 +266,10 @@ export default function SocraticFlow() {
             <span>Conceptual Equation</span>
           </div>
           <h2 className="font-serif text-3xl sm:text-4xl text-[#141413] tracking-tight">
-            Socratic Questioning + LLM = SOCRATIVE
+            Socratic Questioning + LLM = SOCR.AI
           </h2>
           <p className="text-base sm:text-lg text-[#66645E] leading-relaxed">
-            The fundamental premise of SOCRATIVE is not to eliminate AI from learning, but to reorder the cognitive sequence: <strong className="text-[#141413]">AI should stimulate reasoning before delivering conclusions.</strong>
+            The fundamental premise of SOCR.AI is not to eliminate AI from learning, but to reorder the cognitive sequence: <strong className="text-[#141413]">AI should stimulate reasoning before delivering conclusions.</strong>
           </p>
         </div>
 

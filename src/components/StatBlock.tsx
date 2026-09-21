@@ -372,7 +372,7 @@ export default function EvidenceSections() {
                   The work of Ramadhan et al. illuminates the boundary conditions of AI-assisted learning: while immediate answers offer short-term task resolution, unreflective cognitive offloading deteriorates deep schema formation.
                 </p>
                 <p>
-                  SOCRATIVE adopts this finding as a foundational design constraint—restoring productive cognitive friction through guided Socratic dialogue before delivering synthesized answers.
+                  SOCR.AI adopts this finding as a foundational design constraint—restoring productive cognitive friction through guided Socratic dialogue before delivering synthesized answers.
                 </p>
               </div>
 

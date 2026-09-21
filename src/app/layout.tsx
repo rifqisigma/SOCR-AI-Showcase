@@ -27,13 +27,13 @@ const jetbrainsMono = JetBrains_Mono({
 
 export const metadata: Metadata = {
   title: {
-    template: "%s | SOCRATIVE — Socratic Optimized Cognitive Responsiveness",
-    default: "SOCRATIVE — Socratic Optimized Cognitive Responsiveness",
+    template: "%s | SOCR.AI — Socratic Optimized Cognitive Responsiveness",
+    default: "SOCR.AI — Socratic Optimized Cognitive Responsiveness",
   },
   description:
     "A learning approach integrating Socratic Questioning and Large Language Models to encourage students to think before relying on AI-generated answers.",
   keywords: [
-    "SOCRATIVE",
+    "SOCR.AI",
     "Socratic Method",
     "Cognitive Responsiveness",
     "Educational AI",
@@ -43,7 +43,7 @@ export const metadata: Metadata = {
   ],
   authors: [{ name: "Rifqi Adli Hernawan", url: "/creator" }],
   openGraph: {
-    title: "SOCRATIVE — Socratic Optimized Cognitive Responsiveness",
+    title: "SOCR.AI — Socratic Optimized Cognitive Responsiveness",
     description:
       "Turning AI from an answer machine into a thinking partner through structured Socratic inquiry.",
     type: "website",

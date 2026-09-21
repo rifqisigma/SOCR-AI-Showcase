@@ -102,7 +102,7 @@ export default function CreatorProfile() {
               I am an undergraduate student researcher in <strong>Teknologi Rekayasa Komputer</strong> at IPB University. My work explores the intersection of human cognitive agency, dialectical interaction design, and intelligent computing systems.
             </p>
             <p className="text-base text-[#66645E]">
-              As generative AI becomes ubiquitous in higher education, I initiated the <strong>SOCRATIVE</strong> project to address the urgent pedagogical dilemma of cognitive offloading. Rather than building automated answer machines, I believe technology should challenge students to examine premises, structure hypotheses, and cultivate deep intellectual autonomy.
+              As generative AI becomes ubiquitous in higher education, I initiated the <strong>SOCR.AI</strong> project to address the urgent pedagogical dilemma of cognitive offloading. Rather than building automated answer machines, I believe technology should challenge students to examine premises, structure hypotheses, and cultivate deep intellectual autonomy.
             </p>
           </div>
 

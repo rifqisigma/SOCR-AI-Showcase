@@ -58,7 +58,7 @@ export default function Navbar() {
             </div>
             <div className="flex flex-col">
               <span className="font-serif text-xl tracking-tight text-[#141413] font-medium transition-colors group-hover:text-[#C85A32]">
-                SOCRATIVE
+                SOCR.AI
               </span>
               <span className="text-[10px] tracking-widest text-[#787774] uppercase font-mono hidden sm:inline-block">
                 Research Project

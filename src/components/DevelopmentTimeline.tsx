@@ -58,7 +58,7 @@ const milestones: Milestone[] = [
     title: "Framework",
     status: "Completed",
     summary:
-      "Development of the SOCRATIVE conceptual framework based on Socratic Questioning and LLM interaction.",
+      "Development of the SOCR.AI conceptual framework based on Socratic Questioning and LLM interaction.",
     details: [
       "Mapping the 5-stage dialectic loop (Question → Examine → Challenge → Reflect → Understand).",
       "Designing cognitive intervention triggers before answer synthesis.",
@@ -255,7 +255,7 @@ export default function DevelopmentTimeline() {
             </div>
 
             <p className="text-base text-[#4D4C48] leading-relaxed">
-              Explore the development and implementation of SOCRATIVE. Track architectural specifications, prompt harnesses, and experimental logs.
+              Explore the development and implementation of SOCR.AI. Track architectural specifications, prompt harnesses, and experimental logs.
             </p>
 
             <div className="pt-4 flex flex-wrap items-center gap-4">
@@ -277,14 +277,14 @@ export default function DevelopmentTimeline() {
                     <span>Repository Access:</span>
                   </div>
                   <span>
-                    Configured via <code className="bg-[#FAF9F5] px-1.5 py-0.5 border rounded">https://github.com/rifqisigma/socrative-model</code> (currently in private research stage).
+                    Configured via <code className="bg-[#FAF9F5] px-1.5 py-0.5 border rounded">https://github.com/rifqisigma/socr-ai-model</code> (currently in private research stage).
                   </span>
                 </div>
               )}
 
               <div className="flex items-center gap-2 text-xs font-mono text-[#787774]">
                 <GitBranch className="w-3.5 h-3.5" />
-                <span>main / dev-socrative-v0.1</span>
+                <span>main / dev-socrai-v0.1</span>
               </div>
             </div>
           </div>

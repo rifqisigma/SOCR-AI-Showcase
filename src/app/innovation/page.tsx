@@ -7,7 +7,7 @@ import SocraticFlow from "@/components/SocraticFlow";
 export const metadata: Metadata = {
   title: "The Innovation",
   description:
-    "Explore the conceptual framework of SOCRATIVE: integrating the Socratic method with Large Language Models to stimulate active cognitive reasoning.",
+    "Explore the conceptual framework of SOCR.AI: integrating the Socratic method with Large Language Models to stimulate active cognitive reasoning.",
 };
 
 export default function InnovationPage() {
@@ -51,7 +51,7 @@ export default function InnovationPage() {
               </p>
 
               <p className="text-sm sm:text-base text-[#66645E] leading-relaxed">
-                By bypassing the essential stages of framing questions, challenging assumptions, and testing edge cases, students risk superficial familiarity rather than deep, durable comprehension. SOCRATIVE resolves this by shifting AI from an effortless oracle to a reflective dialectical partner.
+                By bypassing the essential stages of framing questions, challenging assumptions, and testing edge cases, students risk superficial familiarity rather than deep, durable comprehension. SOCR.AI resolves this by shifting AI from an effortless oracle to a reflective dialectical partner.
               </p>
             </div>
           </div>

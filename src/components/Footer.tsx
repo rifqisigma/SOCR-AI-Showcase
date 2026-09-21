@@ -16,7 +16,7 @@ export default function Footer() {
                 <span className="font-serif text-xs font-semibold text-[#141413]">S</span>
               </div>
               <span className="font-serif text-xl tracking-tight text-[#141413] font-medium">
-                SOCRATIVE
+                SOCR.AI
               </span>
             </div>
             <p className="font-serif text-2xl sm:text-3xl text-[#141413] font-normal leading-snug tracking-tight">
@@ -105,7 +105,7 @@ export default function Footer() {
 
         {/* Bottom Bar */}
         <div className="mt-16 pt-8 border-t border-[#E6E4DC] flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-[#787774]">
-          <p>© {currentYear} SOCRATIVE Project. Non-commercial research & student innovation showcase.</p>
+          <p>© {currentYear} SOCR.AI Project. Non-commercial research & student innovation showcase.</p>
           <div className="flex items-center gap-6">
             <span className="font-mono">IPB University</span>
             <span>•</span>

@@ -35,7 +35,7 @@ export default function ExpandableImage() {
         <div className="relative w-full aspect-[16/9] md:aspect-[21/10] max-h-[78vh]">
           <Image
             src="/images/dummy.jpg"
-            alt="SOCRATIVE: Inquiry-Driven Cognitive Systems Visual Representation"
+            alt="SOCR.AI: Inquiry-Driven Cognitive Systems Visual Representation"
             fill
             priority
             sizes="100vw"
@@ -56,7 +56,7 @@ export default function ExpandableImage() {
 
       {/* Sub-caption */}
       <div className="w-full max-w-4xl mx-auto px-6 mt-6 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-2 text-xs font-mono text-[#787774]">
-        <span className="text-right">SOCRATIVE Showcase</span>
+        <span className="text-right">SOCR.AI Showcase</span>
       </div>
     </div>
   );
