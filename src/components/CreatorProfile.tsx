@@ -54,7 +54,7 @@ export default function CreatorProfile() {
           <div className="relative group overflow-hidden rounded-2xl bg-[#E6E4DC] border border-[#E6E4DC] shadow-sm">
             <div className="relative aspect-[3/4] w-full">
               <Image
-                src="/images/person.JPG"
+                src="/images/Person.JPG"
                 alt="Portrait of Rifqi Adli Hernawan, Student Researcher at IPB University"
                 fill
                 priority
